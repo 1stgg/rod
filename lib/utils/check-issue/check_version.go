@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"regexp"
 
-	"github.com/go-rod/rod/lib/utils"
+	"github.com/1stgg/rod/lib/utils"
 	"github.com/ysmood/gson"
 )
 

@@ -15,9 +15,9 @@ import (
 	"strings"
 	"sync/atomic"
 
-	"github.com/go-rod/rod/lib/defaults"
-	"github.com/go-rod/rod/lib/launcher/flags"
-	"github.com/go-rod/rod/lib/utils"
+	"github.com/1stgg/rod/lib/defaults"
+	"github.com/1stgg/rod/lib/launcher/flags"
+	"github.com/1stgg/rod/lib/utils"
 	"github.com/ysmood/leakless"
 )
 

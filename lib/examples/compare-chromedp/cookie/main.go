@@ -9,8 +9,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/go-rod/rod"
-	"github.com/go-rod/rod/lib/proto"
+	"github.com/1stgg/rod"
+	"github.com/1stgg/rod/lib/proto"
 )
 
 // This example demonstrates how we can modify the cookies on a web page.

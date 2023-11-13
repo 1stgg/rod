@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"net/url"
 
-	"github.com/go-rod/rod/lib/utils"
+	"github.com/1stgg/rod/lib/utils"
 )
 
 var inContainer = utils.InContainer

@@ -3,8 +3,8 @@ package rod_test
 import (
 	"testing"
 
-	"github.com/go-rod/rod"
-	"github.com/go-rod/rod/lib/proto"
+	"github.com/1stgg/rod"
+	"github.com/1stgg/rod/lib/proto"
 )
 
 func TestBrowserWithPanic(t *testing.T) {

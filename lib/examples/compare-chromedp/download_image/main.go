@@ -5,7 +5,7 @@ import (
 	"io/ioutil"
 	"log"
 
-	"github.com/go-rod/rod"
+	"github.com/1stgg/rod"
 )
 
 func main() {

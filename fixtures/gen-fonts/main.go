@@ -9,9 +9,9 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/go-rod/rod"
-	"github.com/go-rod/rod/lib/launcher"
-	"github.com/go-rod/rod/lib/utils"
+	"github.com/1stgg/rod"
+	"github.com/1stgg/rod/lib/launcher"
+	"github.com/1stgg/rod/lib/utils"
 )
 
 func main() {
